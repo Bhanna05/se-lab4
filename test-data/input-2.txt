@@ -1,0 +1,3 @@
+#ha az egyik üres, a másikból lő
+GT4500,0,0,1,0
+TORPEDO,SINGLE
