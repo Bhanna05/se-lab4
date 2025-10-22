@@ -1,0 +1,3 @@
+#tesztelt követelmény: ez első tárolóból lő e először
+GT4500,2,0,2,1
+TORPEDO,SINGLE

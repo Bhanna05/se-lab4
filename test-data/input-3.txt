@@ -1,0 +1,3 @@
+#ha nem sikerül kilőni a torpedót akkor nem próbál a másikból lőni
+GT4500,1,1,1,0
+TORPEDO,SINGLE
